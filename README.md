@@ -1,6 +1,6 @@
 #STUDY
 
-- [###Managing Source Code with Git](ManagingSourceCodeWithGit_Pluralsight/MANAGINGSOURCECODEWITHGIT.md)
+- [#Managing Source Code with Git](ManagingSourceCodeWithGit_Pluralsight/MANAGINGSOURCECODEWITHGIT.md)
 
 Begginer
 Git: The Big Picture
