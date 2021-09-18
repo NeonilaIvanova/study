@@ -1,4 +1,4 @@
-# BEGGINER
+# BEGINNER
 
 ### Git: The Big Picture
 
