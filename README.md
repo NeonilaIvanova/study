@@ -1,4 +1,6 @@
-Managing Source Code with Git
+#STUDY
+
+- [###Managing Source Code with Git](ManagingSourceCodeWithGit_Pluralsight/MANAGINGSOURCECODEWITHGIT.md)
 
 Begginer
 Git: The Big Picture
@@ -6,7 +8,9 @@ Git: The Big Picture
 ![Alt text](imgs/1.png?raw=true "1")
 ![Alt text](imgs/2.png?raw=true "2")
 
+...
 git init - creates empty repository
+...
 
 git add - staging files
 
