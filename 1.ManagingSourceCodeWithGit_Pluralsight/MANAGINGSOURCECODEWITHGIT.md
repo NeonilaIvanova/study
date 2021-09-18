@@ -10,7 +10,7 @@ https://app.pluralsight.com/paths/skill/managing-source-code-with-git
 ### INTERMEDIATE
 
 - [How Git Works](Intermediate/1.INTERMEDIATE_HOWGITWORKS.md)
-- [Working with Git Branches](Intermediate/1.INTERMEDIATE_WORKINGWITHGITBRANCHES.md)
+- [Working with Git Branches](Intermediate/2.INTERMEDIATE_WORKINGWITHGITBRANCHES.md)
 
 ### ADVANCED
 
