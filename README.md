@@ -12,6 +12,6 @@
 |          React          |                                                         [React Skill Path](8.React_Pluralsight/REACT.md)                                                         |
 |                         |              [Building Web Applications with React Skill Path](9.BuildingWebApplicationsWithReact_Pluralsight/BUILDINGWEBAPPLICATIONSWITHREACT.md)               |
 |         Angular         |                                                     [Angular Skill Path](10.Angular_Pluralsight/ANGULAR.md)                                                      |
-|       TypeScript        |                                                 [TypeScript Skill Path](11.TypeScript_Pluralsight/TYPESCRIPT.md)                                                 |
+|       TypeScript        |                              [TypeScript Core Language Skill Path](11.TypeScriptCoreLanguage_Pluralsight/TYPESCRIPTCORELANGUAGE.md)                              |
 |         Node.js         |                                                      [Node.js Skill Path](12.Node.js_Pluralsight/NODEJS.md)                                                      |
 |                         |                                    [Working with Node.js Skill Path](13.WorkingWithNode.js_Pluralsight/WORKINGWITHNODEJS.md)                                     |
