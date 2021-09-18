@@ -7,7 +7,5 @@
 ![2](imgs/2.png)
 
 ```
-git init
+git init // initiates empty repository
 ```
-
-- initiates empty repository
