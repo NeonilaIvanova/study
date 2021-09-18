@@ -11,3 +11,9 @@ git init // initiates empty repository
 ```
 
 ![3](imgs/3.png)
+
+```
+git add // stages files
+```
+
+![4](imgs/4.png)
