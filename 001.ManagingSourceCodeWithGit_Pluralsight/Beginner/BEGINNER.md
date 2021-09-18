@@ -75,3 +75,25 @@ git merge // join two or more development histories together
 ![17](imgs/17.png)
 
 > Main branch is left as it is
+
+### Client-server Version Control
+
+Flow:
+
+1. connect to repo
+2. copy project to the local working area
+3. make local changes
+4. get latest changes from the server
+5. fix the conflict (nmerge)
+6. commit
+
+### Distributed Version Control
+
+Flow:
+
+1. connect to remore repo
+2. clone repo (now local repo and local repo exists)
+3. make changes to local repo
+4. git pull (to get latest changes)
+5. merge changes with local changes
+6. git push (push local changes to remote repo)
