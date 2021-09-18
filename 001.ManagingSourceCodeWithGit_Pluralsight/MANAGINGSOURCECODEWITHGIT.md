@@ -2,4 +2,7 @@
 
 https://app.pluralsight.com/paths/skill/managing-source-code-with-git
 
-### BEGINNER - [link](Beginner/BEGINNER.md)
+### BEGINNER
+
+- [Git: The Big Picture](Beginner/BEGINNER_GITTHEBIGPICTURE.md)
+- [Getting Started with Git](Beginner/BEGINNER_GETTINGSTARTEDWITHGIT.md)
